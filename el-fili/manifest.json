@@ -1,0 +1,16 @@
+{
+  "name": "El Filibusterismo",
+  "short_name": "ElFili",
+  "start_url": "index.html",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#000",
+  "description": "El Filibusterismo by C&E Publishing Inc.",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ]
+}
